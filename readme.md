@@ -2,7 +2,7 @@
 Author : Rahmat Mustaqim 
 Site : https://github.com/rahmatmustaqim69
 ]-->
-<br>HOW TO OPEN FROM XAMPP :<br>
+<p>HOW TO OPEN FROM XAMPP :</p>
 INSTALL XAMPP<br>
 START APACHE AND MYSQL<br>
 TAKE ON PATH : /xampp/htdocs/<br>
