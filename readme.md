@@ -2,8 +2,8 @@
 Author : Rahmat Mustaqim 
 Site : https://github.com/rahmatmustaqim69
 ]-->
-HOW TO OPEN FROM XAMPP :
-INSTALL XAMPP
-START APACHE AND MYSQL
-TAKE ON PATH : /xampp/htdocs/
-OPEN URL ON BROWSER : localhost/name_folder
+<br>HOW TO OPEN FROM XAMPP :<br>
+INSTALL XAMPP<br>
+START APACHE AND MYSQL<br>
+TAKE ON PATH : /xampp/htdocs/<br>
+OPEN URL ON BROWSER : localhost/name_folder</br>
